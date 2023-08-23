@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(234, 234, 234);
+    font-family: 'Oxygen', sans-serif;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+h1 {
+    background-color: white;
+    margin-top: 0;
+    padding: 12px;
+    padding-right: 215px;
+}
+div {
+    background-color: white;
+}
+.posts {
+    width: 36%;
+    margin: 0 auto;
+    background-color: rgb(234, 234, 234);
+}
+.post {
+    margin-bottom: 50px;
+}
+h2, h3 {
+    display: inline-flex;
+    font-size: medium;
+}
+h2 {
+    width: 90%;
+}
+h3 {
+    color: rgb(173, 176, 178);
+    font-weight: lighter;
+}
+.photo {
+    width: 100%;
+    object-fit: cover;
+}
+#food {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+p {
+    text-align: left;
+    padding: 25px;
+    padding-top: 0%;
+}
+
